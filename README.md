@@ -1,2 +1,3 @@
-# common-feign-client
-A unified declarative service call package. 
+# feign
+
+统一封装服务 Feign client 项目。
