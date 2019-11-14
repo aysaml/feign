@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author wangning40
+ * @author wangning
  * @date 2019-11-13
  */
 @SpringBootTest(classes = FeignDemoApplication.class)

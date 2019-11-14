@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>common-feign-client</module>
+        <module>feign-demo</module>
     </modules>
 
     <dependencyManagement>
